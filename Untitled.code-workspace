@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "protios",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "protios"
+	}
+}
